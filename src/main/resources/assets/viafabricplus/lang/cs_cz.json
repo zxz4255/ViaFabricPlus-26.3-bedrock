@@ -1,0 +1,23 @@
+{
+  "base.viafabricplus.settings": "Nastavení",
+  "base.viafabricplus.on": "Ano",
+  "base.viafabricplus.off": "Ne",
+  "base.viafabricplus.left_top": "Vlevo nahoře",
+  "base.viafabricplus.right_top": "Vpravo nahoře",
+  "base.viafabricplus.left_bottom": "Vlevo dole",
+  "base.viafabricplus.right_bottom": "Vpravo dole",
+  "base.viafabricplus.cancel": "Zrušit",
+  "base.viafabricplus.logout": "Odhlásit se",
+  "general_settings.viafabricplus.filter_creative_tabs": "Odstranit nedostupné předměty z inventáře tvořivé hry",
+  "visual_settings.viafabricplus.replace_hurt_sound_with_oof_sound": "Vyměnit zvuk zranění s \"OOF\" zvukem",
+  "visual_settings.viafabricplus.hide_modern_hud_elements": "Odstranit novější prvky z HUD",
+  "visual_settings.viafabricplus.replace_creative_inventory_with_classic_inventory": "Vyměnit inventář tvořivé hry",
+  "visual_settings.viafabricplus.old_walking_animation": "Stará chodící animace",
+  "visual_settings.viafabricplus.sneak_instantly": "Instantní plížení",
+  "classicube.viafabricplus.loading": "Načítaní informace účtu a seznam serverů...",
+  "classic4j_library.viafabricplus.error.token": "Neplatný token. Je vaše verze modu ViaFabricPlus zastaralá?",
+  "classic4j_library.viafabricplus.error.username": "Neplatné uživatelské jméno.",
+  "classic4j_library.viafabricplus.error.password": "Neplatné heslo.",
+  "classic4j_library.viafabricplus.error.verification": "Uživatel si ještě neverifikoval svoji E-mailovou adresu.",
+  "classic4j_library.viafabricplus.error.logincode": "Je požadováno více-fázové ověření. Prosím zkontrolujte si svůj E-mail."
+}
