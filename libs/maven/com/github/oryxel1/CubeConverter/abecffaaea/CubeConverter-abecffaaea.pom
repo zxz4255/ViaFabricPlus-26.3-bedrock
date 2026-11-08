@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Vendored copy of https://jitpack.io/com/github/oryxel1/CubeConverter/abecffaaea/
+  (GPL-3.0, oryxel1). 只是一个"本地 maven 仓库"，让 Gradle 把它当成正常的 module component 解析，
+  这样 Fabric Loom 的 processIncludeJars 才能把它当嵌套 jar 打包。
+  依赖列表故意留空：上游 pom 里的 viaversion-common / lombok / joml 都由宿主工程提供。
+-->
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.github.oryxel1</groupId>
+    <artifactId>CubeConverter</artifactId>
+    <version>abecffaaea</version>
+    <packaging>jar</packaging>
+    <name>CubeConverter (vendored)</name>
+    <description>Bedrock/Java model converter used by ViaBedrock</description>
+</project>

@@ -1,0 +1,9 @@
+{
+  "bedrock_settings.viafabricplus": "基岩版",
+  "bedrock_settings.viafabricplus.account": "基岩版账号",
+  "bedrock_settings.viafabricplus.account.login": "点击登录",
+  "bedrock_settings.viafabricplus.replace_default_port": "在服务器列表中替换默认端口",
+  "bedrock_settings.viafabricplus.experimental_features": "启用实验性功能（可能不稳定）",
+  "bedrock_settings.viafabricplus.container_translation": "容器界面交互转译（可在箱子/木桶/潜影盒与背包之间移动物品）",
+  "bedrock_settings.viafabricplus.container_translation_debug": "输出容器转译动作日志（调试）"
+}
